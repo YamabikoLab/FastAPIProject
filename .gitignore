@@ -1,0 +1,38 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 環境設定ファイル
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Docker関連
+*.pid
+*.seed
+*.pid.lock
+*.local
+*.dockerignore
+
+# VS Code関連
+.vscode/
+.history/
+
+# PyCharm関連
+.idea/
+*.iml
+
+# その他
+.DS_Store
+*.swp
